@@ -1,3 +1,3 @@
-a=int (input())
-if (a%2==0):
+dumplings=int (input())
+if (dumplings%2==0):
     print("Всё ок")
