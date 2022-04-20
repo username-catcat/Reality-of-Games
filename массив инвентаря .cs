@@ -20,7 +20,7 @@ namespace ConsoleApp1
                 if (act=="да")
                    { 
                     inventarray[0] = itemarray[0]; // добавление подобранного предмета в инвентарь
-                    Console.WriteLine("найден предмет"+  itemarray[0]);  // сообщение о полученном предмете
+                    Console.WriteLine("найден предмет: "+ itemarray[0]);  // сообщение о полученном предмете
                     
                     }
                 else
