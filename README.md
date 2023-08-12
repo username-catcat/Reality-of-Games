@@ -1,2 +1,2 @@
-# beyond-the-code
-Ветка, на которой на которой висит код проекта "beyond the thicket" и всё что с ним связано
+# beyond-the-thicket
+a branch for "beyond the thicket" project and everything related to it
