@@ -1,3 +1,4 @@
 # Reality-of-Games
-репозиторий предназначенный для хранения исходных кодов проектов
-В данном репозиторие предполагается хранение всех кодов для различных проектов компании Reality of Games, все коды разрешены для редактирования сотрудниками, имеющими необходимые навыки
+A repository designed to store project source codes;
+This repository assumes the storage of all codes for various projects of the Reality of Games company, all codes are allowed for editing by employees who have the necessary skills
+UPD: Now I'm the only person, working here, so temporary (or not) it's a repository for my own projects
